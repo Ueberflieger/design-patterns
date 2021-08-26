@@ -18,10 +18,11 @@ We use design patterns because we don't want to reinvent the wheel.
 ### Types of Design Patterns
 
 There are three types of design patterns:
-* Creational
 
-[Builder Pattern](builder.md)
+#### Creational
 
-* Structural
-* Behavioral
+- [Builder Pattern](builder.md)
+
+#### Structural
+#### Behavioral
 
