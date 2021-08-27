@@ -8,6 +8,19 @@ to construct both of these variations.
 For example an airplane could be a F-16 figher jet or a Boeing 747 the two are both airplanes
 but a Boing 474 has a bathroom whereas the F-16 has not.
 
+## Class Diagram
+
+![Builder Class Diagram](builder_class_diagram.png)
+
+### Director
+
+The director builds the parts that the builder interface provides.
+
+### Builder Interface
+
+The builder interface defines the methods that a concrete builder has to provide.
+Each builder implements a method `getResult()` to get the final product.
+
 ## Code
 
 F16 and Boeing 747 would derive from the `AircraftBuilder`.
