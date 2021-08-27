@@ -24,6 +24,7 @@ There are three types of design patterns:
 - [Builder Pattern](builder.md)
 - [Singleton Pattern](singleton.md)
 - [Prototype Pattern](prototype.md)
+- [Factory Method Pattern](factory-method.md)
 
 #### Structural
 #### Behavioral
