@@ -22,6 +22,7 @@ There are three types of design patterns:
 #### Creational
 
 - [Builder Pattern](builder.md)
+- [Prototype Pattern](prototype.md)
 
 #### Structural
 #### Behavioral
