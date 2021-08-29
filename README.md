@@ -28,5 +28,8 @@ There are three types of design patterns:
 - [Abstract Factory Pattern](abstract-factory.md)
 
 #### Structural
+
+- [Adapter Pattern](adapter.md)
+
 #### Behavioral
 
