@@ -33,6 +33,7 @@ There are three types of design patterns:
 - [Bridge Pattern](bridge.md)
 - [Composite Pattern](composite.md)
 - [Decorator Pattern](decorator.md)
+- [Facade Pattern](facade.md)
 
 #### Behavioral
 
