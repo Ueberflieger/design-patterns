@@ -9,7 +9,7 @@ It's purpose is to hide the complexity of an interface or a subsystem.
 
 ![Facade Class Diagram](facade_class_diagram.png)
 
-## Code
+## Example
 
 Modern aircrafts have a feature called autopilot that allows the airplane to
 fly to its destination in an automated fashion without much interference from

@@ -19,7 +19,7 @@ varying the values of a cloned object from a prototypical instance.
 
 ![Prototype Class Diagram](prototype_class_diagram.png)
 
-## Code
+## Example
 
 Here an example of a F16 which can exist with two different engines.
 

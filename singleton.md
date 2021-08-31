@@ -9,7 +9,7 @@ only allowing only the members to access the constructor.
 
 ![Singleton Class Diagram](singleton_class_diagram.png)
 
-## Code
+## Example
 
 For example we want to create the Air Force One, of which only 
 one exists.

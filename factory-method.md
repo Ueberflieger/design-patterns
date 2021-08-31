@@ -18,7 +18,7 @@ The `concreteCreator` calls the factory method of the parent class,
 then does it's special thing and returns an object of type
 `ConcreteProduct`.
 
-## Code
+## Example
 
 ```Java
 public class F16 {

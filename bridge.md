@@ -15,7 +15,7 @@ the two layers independently of each other.
 
 ![Bridge Pattern Class Diagram](bridge_class_diagram.png)
 
-## Code
+## Example
 
 The following example is about the Toyota model Corolla and it's
 various model types and variations for a different locale (e.g.

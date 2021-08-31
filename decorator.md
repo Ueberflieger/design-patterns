@@ -11,7 +11,7 @@ is desired.
 
 ![Decorator Pattern Class Diagram](decorator_pattern_class_diagram.png)
 
-## Code
+## Example
 
 To better understand the decorator pattern, let's go back to our aircraft
 example. The aircraft are produced somewhat similar to cars. There's the

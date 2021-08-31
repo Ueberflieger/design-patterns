@@ -21,7 +21,7 @@ The director builds the parts that the builder interface provides.
 The builder interface defines the methods that a concrete builder has to provide.
 Each builder implements a method `getResult()` to get the final product.
 
-## Code
+## Example
 
 F16 and Boeing 747 would derive from the `AircraftBuilder`.
 

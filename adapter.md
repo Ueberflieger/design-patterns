@@ -16,7 +16,7 @@ together.
 
 ![Adatper Pattern Class Diagram](adapter_pattern_class_diagram.png)
 
-## Code
+## Example
 
 Let's take our aircraft example again. Your software only deals with
 fancy jets but suddenly you are required to adapt your software to cater

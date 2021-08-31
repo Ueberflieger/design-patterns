@@ -11,7 +11,7 @@ different styles).
 
 ![Abstract Factory Class Diagram](abstract_factory_class_diagram.png)
 
-## Code
+## Example
 
 The interface of the abstract factory:
 Note, the create methods return interfaces, not concrete objects.

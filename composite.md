@@ -17,7 +17,7 @@ the whole and the part.
 
 ![Composite Pattern Class Diagram](composite_pattern_class_diagram.png)
 
-## Code
+## Example
 
 Assume, that we now want to represent all the aircraft in the combined
 air forces of the NATO alliance. An air force is primarily made up of
