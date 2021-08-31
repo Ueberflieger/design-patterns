@@ -35,6 +35,7 @@ There are three types of design patterns:
 - [Decorator Pattern](decorator.md)
 - [Facade Pattern](facade.md)
 - [Flyweight Pattern](flyweight.md)
+- [Proxy Pattern](proxy.md)
 
 #### Behavioral
 
