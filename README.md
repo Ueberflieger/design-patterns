@@ -40,3 +40,4 @@ There are three types of design patterns:
 #### Behavioral
 
 - [Chain of Responsibility Pattern](chain-of-responsibility.md)
+- [Observer Pattern](observer.md)
