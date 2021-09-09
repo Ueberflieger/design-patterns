@@ -42,3 +42,4 @@ There are three types of design patterns:
 - [Chain of Responsibility Pattern](chain-of-responsibility.md)
 - [Observer Pattern](observer.md)
 - [Command Pattern](command.md)
+- [Iterator Pattern](iterator.md)
