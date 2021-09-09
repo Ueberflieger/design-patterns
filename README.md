@@ -43,3 +43,4 @@ There are three types of design patterns:
 - [Observer Pattern](observer.md)
 - [Command Pattern](command.md)
 - [Iterator Pattern](iterator.md)
+- [Mediator Pattern](mediator.md)
