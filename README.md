@@ -44,3 +44,4 @@ There are three types of design patterns:
 - [Command Pattern](command.md)
 - [Iterator Pattern](iterator.md)
 - [Mediator Pattern](mediator.md)
+- [Memento Pattern](memento.md)
