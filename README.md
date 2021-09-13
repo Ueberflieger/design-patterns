@@ -45,3 +45,4 @@ There are three types of design patterns:
 - [Iterator Pattern](iterator.md)
 - [Mediator Pattern](mediator.md)
 - [Memento Pattern](memento.md)
+- [State Pattern](state.md)
