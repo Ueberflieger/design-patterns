@@ -46,3 +46,5 @@ There are three types of design patterns:
 - [Mediator Pattern](mediator.md)
 - [Memento Pattern](memento.md)
 - [State Pattern](state.md)
+- [Strategy Pattern](strategy.md)
+
