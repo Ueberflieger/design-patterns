@@ -47,4 +47,4 @@ There are three types of design patterns:
 - [Memento Pattern](memento.md)
 - [State Pattern](state.md)
 - [Strategy Pattern](strategy.md)
-
+- [Visitor Pattern](visitor.md)
